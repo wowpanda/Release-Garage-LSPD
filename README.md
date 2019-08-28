@@ -7,3 +7,5 @@
 A ajouter dans le script https://github.com/iTexZoz/NativeUILua_Reloaded
 
 To add in the script https://github.com/iTexZoz/NativeUILua_Reloaded
+
+video : https://www.youtube.com/watch?v=TSCdY_mBVRU
